@@ -1,4 +1,4 @@
-https://www.figma.com/community/plugin/1254262542670221199git 
+https://github.com/Par-ann/posmotri-v-okno-fd
 
 # Посмотри в окно
 
